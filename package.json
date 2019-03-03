@@ -1,6 +1,6 @@
 {
   "name": "rpgcore-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A pure and powerful JavaScript RPGcoin library.",
   "author": "Silence <silence@rpgcoin.gg>",
   "main": "index.js",
@@ -40,7 +40,7 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "^3.10.1",
-    "node-x21s": "^1.0.1"
+    "node-x21s": "^1.0.4"
   },
   "devDependencies": {
     "rpgcore-build": "rpgcore-build",
