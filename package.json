@@ -1,6 +1,6 @@
 {
   "name": "rpgcore-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A pure and powerful JavaScript RPGcoin library.",
   "author": "Silence <silence@rpgcoin.gg>",
   "main": "index.js",

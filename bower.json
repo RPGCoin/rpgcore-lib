@@ -1,8 +1,8 @@
 {
   "name": "rpgcore-lib",
   "main": "./rpgcore-lib.min.js",
-  "version": "1.0.0",
-  "homepage": "https://github.com/traysi",
+  "version": "1.0.2",
+  "homepage": "https://github.com/RPGCoin",
   "authors": [
     "Under"
   ],
